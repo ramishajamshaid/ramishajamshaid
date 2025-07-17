@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ramisha 👋</h1>
 
-<!--
-**ramishajamshaid/ramishajamshaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌸 A passionate <strong>Frontend Developer</strong> from Hyderabad, Pakistan 🇵🇰
+ <br>
+  💻 I create clean and responsive websites using <strong>HTML & CSS</strong> <br>
+  🌱 Currently learning <strong>JavaScript</strong> & UI Design <br>
+  ✨ I believe in simple code, beautiful layouts, and constant growth
+</p>
 
-Here are some ideas to get you started:
+### 🛠 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5  
+- CSS3 (Flexbox & Grid)  
+- Responsive Design (Mobile First)  
+- Git & GitHub (basic)  
+- Currently learning: JavaScript & TailwindCSS
+
+### 📫 Let's Connect!
+
+Feel free to reach out:
+
+- 📧 Email: your.email@example.com  
+
+<p align="center">
+  💻 "Code. Learn. Improve. Repeat." 🚀
+</p>
