@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Ramisha 👋</h1>
 
 <p align="center">
-  🌸 A passionate <strong>Frontend Developer</strong> from Hyderabad, Pakistan 🇵🇰
+  A passionate <strong>Frontend Developer</strong> from Hyderabad, Pakistan 🇵🇰
  <br>
-  💻 I create clean and responsive websites using <strong>HTML & CSS</strong> <br>
-  🌱 Currently learning <strong>JavaScript</strong> & UI Design <br>
-  ✨ I believe in simple code, beautiful layouts, and constant growth
+  I create clean and responsive websites using <strong>HTML & CSS</strong> <br>
+  Currently learning <strong>JavaScript</strong> & UI Design <br>
+  I believe in simple code, beautiful layouts, and constant growth
 </p>
 
-### 🛠 My Skills
+### My Skills
 
 - HTML5  
 - CSS3 (Flexbox & Grid)  
@@ -16,12 +16,12 @@
 - Git & GitHub (basic)  
 - Currently learning: JavaScript & TailwindCSS
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 Feel free to reach out:
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: ramishajamshaid9@gmail.com  
 
 <p align="center">
-  💻 "Code. Learn. Improve. Repeat." 🚀
+  💻 "Code. Learn. Improve. Repeat." 
 </p>
