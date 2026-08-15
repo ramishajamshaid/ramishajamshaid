@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramisha Jamshaid</h1>
 
-<h3 align="center">Frontend Developer | Python Enthusiast | React Learner</h3>
+<h3 align="center">Frontend Developer | React Developer | Python Enthusiast</h3>
+
 <p align="center">
-  I create clean and responsive websites using <strong>HTML, CSS & JS</strong> <br>
-  I believe in simple code, beautiful layouts, and constant growth
+  Building clean, responsive, and modern web experiences with a focus on user-friendly interfaces and continuous learning.
 </p>
 
 ---
