@@ -10,12 +10,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [SkyCast-Website](https://github.com/ramishajamshaid/SkyCast-Website)
-- 🌱 I’m currently learning **React.js for building modern and dynamic web applications**
-- 👯 I’m looking to collaborate on **frontend projects, weather apps, and UI/UX based web applications**
-- 🤝 I’m looking for help with **advanced JavaScript concepts, backend development with Python, and full-stack development**
-- 💬 Ask me about **HTML, CSS, JavaScript, responsive web design, and Python basics**
-- 📫 Reach me at: **ramishajamshaid9@gmail.com**
+I’m a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and responsive web design. I’m currently working on MovieDex, a modern movie and TV show explorer, while continuously improving my skills in React.js, advanced JavaScript, Python, and backend development. I enjoy transforming ideas into clean, interactive, and functional web experiences and I’m interested in collaborating on frontend projects, modern UI/UX applications, and real-world web development projects. I’m always learning new technologies, improving my problem-solving skills, and working toward becoming a well-rounded full-stack developer. 
+You can reach me at ramishajamshaid9@gmail.com.*
 
 ---
 
